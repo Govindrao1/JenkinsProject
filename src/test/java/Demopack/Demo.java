@@ -6,5 +6,6 @@ public class Demo {
 	@Given("User give some message")
 	public void user_give_some_message() {
 	   System.out.println("Yes my jenkins project executed successfully=====");
+	   System.out.println("yeah i have checked my issues=======");
 	}
 }

@@ -1,11 +1,2 @@
-pack\Shared.class
-pack\Test.class
-Utilities\PropertiesUtil.class
-RunnerClasses\SelectorsRunner.class
-Demopack\Demo.class
-pack\StepDef_1.class
 RunnerClasses\RunnerDemo.class
-Utilities\WebSiteUtility.class
-pack\CrossBrowseing.class
-PageFactoryClasses\Homepage.class
-RunnerClasses\Runner_1.class
+Demopack\Demo.class
